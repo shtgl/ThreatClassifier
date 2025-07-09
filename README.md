@@ -92,21 +92,16 @@ This project leverages Convolutional Neural Networks (CNNs) for threat detection
 <li> These layers apply learnable filters (kernels) to the input image, generating feature maps that capture patterns such as edges, corners, or textures.</li>
 <li>Purpose: Feature extraction</li>
 <li>Activation Function: ReLU (Rectified Linear Unit) introduces non-linearity</li>
-<li>
-
-Example: `Conv2D(filters=32, kernel_size=(3,3), activation='relu')`
-
-</li></ul><br>
+<li>Example: `Conv2D(filters=32, kernel_size=(3,3), activation='relu')`</li>
+</ul><br>
 
 **Pooling Layers (MaxPool2D)**
 <ul>
 <li>These layers reduce the spatial dimensions of the feature maps. Pooling makes the network more robust and reduces computation.</li>
 <li>Type Used: Max Pooling</li>
 <li>Purpose: Downsampling and noise suppression</li>
-<li>
-
-Example: `MaxPool2D(pool_size=(2, 2))`
-</li></ul><br>
+<li>Example: `MaxPool2D(pool_size=(2, 2))`</li>
+</ul><br>
 
 
 **Flattening Layer**
