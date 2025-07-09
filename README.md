@@ -163,7 +163,7 @@ Proceedings of the 2019 5th International Conference on Computing and Artificial
 <li>Elmannai, W., & Elleithy, K. (2017). Sensor-based assistive devices for visually-impaired people: Current 
 status, challenges, and future directions. Sensors, 17(3), 565. </li>
 <li>National Eye Institute. (2021). Low Vision and Blindness Rehabilitation. 
-https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/low-vision-and-blindness-rehabilitation </li>
+[https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/low-vision-and-blindness-rehabilitation](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/low-vision) </li>
 <li>SWANProject. (2021). System for Wearable Audio Navigation. https://www.swan-project.eu/ </li>
 <li>Sosa-García, J.,&Odone, F. (2017). "Hands On" visual recognition for visually impaired users. ACM 
 Transactions on Accessible Computing (TACCESS), 10(3), 1-30. </li>
